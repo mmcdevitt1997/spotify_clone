@@ -18,6 +18,7 @@ dependencies:
   flutter_bloc:
   hydrated_bloc:
   just_audio:
+  path_provider:
 
 dev_dependencies:
   flutter_test:
